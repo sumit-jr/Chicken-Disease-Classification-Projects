@@ -1,6 +1,11 @@
 # Chicken-Disease-Classification-Projects
 
 
+<img width="931" alt="Screenshot 2023-06-29 at 11 18 36" src="https://github.com/sumit-jr/Chicken-Disease-Classification-Projects/assets/81641001/73607fd2-0768-4097-b23d-d4657f7466e3">
+
+
+[YouTube Link](https://www.youtube.com/watch?v=p1bfK8ZJgkE&t=12871s&ab_channel=KrishNaik)
+
 ## Workflows
 
 1. Update config.yaml
@@ -53,6 +58,19 @@ open up you local host and port
 3. dvc dag
 
 
+<img width="547" alt="Screenshot 2023-06-29 at 11 16 11" src="https://github.com/sumit-jr/Chicken-Disease-Classification-Projects/assets/81641001/5c327601-8848-4312-9fa1-37532719a599">
+
+
+
+# Model Performance
+<img width="882" alt="Screenshot 2023-06-29 at 09 57 07" src="https://github.com/sumit-jr/Chicken-Disease-Classification-Projects/assets/81641001/4a4ad250-589b-46c1-a0cb-d2bcbb549c35">
+
+<img width="877" alt="Screenshot 2023-06-29 at 09 57 20" src="https://github.com/sumit-jr/Chicken-Disease-Classification-Projects/assets/81641001/1f63904c-156d-4bb4-916a-cee77d12d183">
+
+
+<img width="881" alt="Screenshot 2023-06-29 at 09 57 34" src="https://github.com/sumit-jr/Chicken-Disease-Classification-Projects/assets/81641001/eb20e6b5-eab6-4ab5-a920-114d15dae58f">
+
+<img width="881" alt="Screenshot 2023-06-29 at 09 57 48" src="https://github.com/sumit-jr/Chicken-Disease-Classification-Projects/assets/81641001/8560dbad-9058-4957-b9a8-e3dedfc213f2">
 
 # AWS-CICD-Deployment-with-Github-Actions
 
