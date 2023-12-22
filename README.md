@@ -4,7 +4,6 @@
 <img width="931" alt="Screenshot 2023-06-29 at 11 18 36" src="https://github.com/sumit-jr/Chicken-Disease-Classification-Projects/assets/81641001/73607fd2-0768-4097-b23d-d4657f7466e3">
 
 
-[YouTube Link](https://www.youtube.com/watch?v=p1bfK8ZJgkE&t=12871s&ab_channel=KrishNaik)
 
 ## Workflows
 
